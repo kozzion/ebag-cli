@@ -160,4 +160,4 @@ for any rodent-related transformations, partial or complete.
 
 ## License
 
-TBD.
+[MIT](LICENSE) © 2026 Jaap Oosterbroek

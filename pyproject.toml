@@ -9,6 +9,8 @@ description = "Unofficial command-line client for the Bulgarian grocery site eba
 readme = "README.md"
 requires-python = ">=3.11"
 authors = [{ name = "Jaap Oosterbroek" }]
+license = "MIT"
+license-files = ["LICENSE"]
 dependencies = [
     "httpx>=0.27",
     "typer>=0.12",
