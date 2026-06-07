@@ -148,6 +148,16 @@ The networking lives in `ebag_cli/client.py` (the `EbagClient` class) and is
 kept free of CLI concerns so it can be unit-tested without a subprocess. The
 CLI (`ebag_cli/cli.py`) is presentation only.
 
+## Disclaimer
+
+This software is provided **"as is"**, without warranty of any kind, express or
+implied. It's an unofficial client for an API that can change without notice, so
+things may break. Use at your own risk.
+
+To the best of the author's knowledge, using this CLI will **probably not turn
+you into a hamster** — but this cannot be guaranteed. No liability is accepted
+for any rodent-related transformations, partial or complete.
+
 ## License
 
 TBD.
